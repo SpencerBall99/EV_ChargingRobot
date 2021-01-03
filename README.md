@@ -3,7 +3,7 @@
 ## What is it?
 An autonomous robot which locates an electric vehicle's charging port and plugs it in.
 
-##Video
+## Video
 watch our robot move under manual control here:
 https://youtu.be/Z2Zl5m5ZBxk
 
