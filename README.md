@@ -4,7 +4,7 @@
 An autonomous robot which locates an electric vehicle's charging port and plugs it in.
 
 ## Results
-Due to COVID-19, this project was never fully completed. This being said, we did make significant progress towards a final product before all students were sent home for the year and we had a complete design which we would have followed (presumably successfully) to the end of the project. The video linked above shows the robot functioning with us controlling it manually. This was filmed at the second-to-last milestone in the project, directly before we were planning on calibrating it for autonomous operation. 
+Due to COVID-19, this project was never fully completed. This being said, we did make significant progress towards a final product before all students were sent home for the year. Additionally, we had a complete design which we would have followed (presumably successfully) to the end of the project. The video linked above shows the robot functioning with us controlling it manually. This was filmed at the second-to-last milestone in the project, directly before we were planning on calibrating it for autonomous operation. 
 
 ## Video
 Watch our robot move under manual control here:  https://youtu.be/Z2Zl5m5ZBxk
